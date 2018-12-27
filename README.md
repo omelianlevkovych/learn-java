@@ -1,2 +1,86 @@
 # learn-java
-Some basic approach on learning Java 
+Some basic and short to do list of study topics for becoming Java software dev.
+## What is it?
+It's multi-month study plan for diving into basic Java software engineer knowledge.
+
+## Table of Contents
+- Video Resources
+- Book List
+- The Daily Plan
+- Java fundamentals
+    - Fundamental Programming Structures in Java
+        - The main() method
+        - Primitive Data Types
+        - Variables
+        - Constants
+        - Assignments
+        - Initializations
+        - Operations
+        - Strings
+        - Control Flow
+    - Classes and Objects in Java
+        - Classes & Objects
+        - Basic OOP Principles 
+            - Instantiation
+            - Encapsulation
+            - Specialization
+            - Abstraction
+            - Inheritance
+            - Polymorphism
+        - Instance Variables
+        - Class Variables
+        - Constructors
+        - Instance Methods
+        - Class Methods
+        - Method Overloading
+        - The this keyword
+        - Passing and returning objects
+        - Garbage Collection in Java
+    - Object Design and Programming with Java
+        - Abstraction
+        - Inheritance
+        - Polymorphism
+        - Method Overriding
+        - Associations
+        - Delegation
+    - Java Interfaces
+        - Purpose of Interfaces
+        - When to use them
+        - Interface Declaration
+        - Implementing an Interface
+        - Interface Inheritance
+    - Java Exception Handling
+        - Why Exceptions
+        - Standard Exception Handling Options
+        - Exception Class Hierarchy
+        - Checked vs. Unchecked Exceptions
+        - Catching an Exception: try and catch blocks
+        - Methods Which Throw Exceptions: the throws clause
+        - Handling vs. Declaring Excetpions
+        - System Excetpions vs. Application Exceptions
+        - Writing Custom Exceptions
+    - Java Collections API
+        - Arrays
+        - The Java Collections Framework
+        - Collections Interfaces
+        - Concrete Collections
+        - Iterating through Collections
+    - Java Input/ Output API (very basic)
+        - Stream & Files
+        - Input & Output Streams
+        - File Streams
+        - Object Streams
+        - Object Serialization
+        - Readers & Writers
+        - The Java New I/O (NIO) API
+    - Additional
+        - Program Structure
+        - Tests
+        - Namespaces
+        - Comments 
+        - Data Types
+- Version control
+- Algorithms 
+- Data structures
+- Object-Oriented Programming
+- Design Patterns
